@@ -1,0 +1,25 @@
+
+i
+9app/src/main/java/com/example/appbusiness/MainActivity.kt,1/d/1dbc6e81ef388f32b9614bd4d341106877595949
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+h
+8app/src/main/java/com/example/appbusiness/BusinessApp.kt,3/d/3d5d1c8730b6ca14f57698d3e8e43a5fff5060f2
+x
+Happ/src/main/java/com/example/appbusiness/data/local/BusinessDataBase.kt,5/3/532cd733c0a03d14cdd274b5e3171ee79b164662
+Å
+Qapp/src/main/java/com/example/appbusiness/domain/repository/BusinessRepository.kt,a/5/a597fa7537f67602201ceb043aa59577163d15f1
+r
+Bapp/src/main/java/com/example/appbusiness/domain/model/Business.kt,c/7/c7696a4c015048f3ecb13a683f0c5e3dd0b30ebe
+É
+Sapp/src/main/java/com/example/appbusiness/data/repository/BusinessRepositoryImpl.kt,a/8/a8f1301177398a26b1d20fcb57d47b28acf6f7f5
+w
+Gapp/src/main/java/com/example/appbusiness/data/mapper/BusinessMapper.kt,8/3/835cf31eeb46449e833e443e093a99bf1143737e
+
+Oapp/src/main/java/com/example/appbusiness/data/local/entities/BusinessEntity.kt,3/6/36e1443942b83c3984bbebc11d033e33acc17773
+w
+Gapp/src/main/java/com/example/appbusiness/data/local/dao/BusinessDao.kt,b/e/bee8adde1f52a4eb6adcdaf3afdd8f35c475b7fb
+i
+9app/src/main/java/com/example/appbusiness/di/AppModule.kt,0/0/00b88a1ac0c85f7668fcfb816999a1489af186b2
